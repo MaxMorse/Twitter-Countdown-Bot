@@ -1,0 +1,22 @@
+{
+  "name": "twitter-countdown-bot",
+  "version": "1.0.0",
+  "description": "A twitter bot that counts down to new releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelodyMorse/Twitter-Countdown-Bot.git"
+  },
+  "author": "Melody Morse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelodyMorse/Twitter-Countdown-Bot/issues"
+  },
+  "homepage": "https://github.com/MelodyMorse/Twitter-Countdown-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
